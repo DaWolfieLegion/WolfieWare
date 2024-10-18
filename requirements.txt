@@ -1,0 +1,3 @@
+pyfiglet==1.0.2
+python-time==0.3.0
+wheel==0.42.0
